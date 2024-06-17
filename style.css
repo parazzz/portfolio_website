@@ -95,7 +95,7 @@ section {
     display: flex;
     align-items: center;
     padding: 10%;
-    background: url('/paras.png');
+    background: url('images/paras.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
